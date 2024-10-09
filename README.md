@@ -1,1 +1,1 @@
-New client, in beta version, slightly unstable
+quasar rat test, not monitored anymore
